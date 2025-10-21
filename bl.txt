@@ -85,6 +85,8 @@ slot maxwin|http://tuburoko.net/
 slot gacor|http://tuburoko.net/
 rp888|https://stia-aan.ac.id/apa-itu-program-studi-administrasi-publik-dan-mengapa-penting/index.php
 rp888|https://journal.stih-pgl.ac.id/ojs-stih/
+rp888|https://journal.stia-aan.ac.id/
+rp888|https://skripsi.fewarmadewa.ac.id/
 
 
 
